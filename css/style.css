@@ -179,6 +179,9 @@ section {
 
 #develop_part {
     display: flex;
+    padding: 30px 0 90px;
+
+
 }
 
 #develop_part img {
@@ -193,7 +196,7 @@ section {
     border-image: linear-gradient(to right, #B2385E, #E72A40);
     border-image-slice: 1;
     transform: rotate(45deg);
-    margin: 20px
+    margin: 40px 0 20px;
 }
 
 .develop_text h2 {
@@ -320,14 +323,13 @@ section {
     font-size: 20px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #5B5B5B;
-    font-family: 'Zen Tokyo Zoo', cursive;
+    color: #B2385E;
+
 
 }
 
 #footer_part h3 span {
-    color: #B2385E;
-
+    color: #f1f1f1
 }
 
 #footer_part p {
